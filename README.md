@@ -15,10 +15,11 @@ golang自定义web框架，作为学习掌握Golang编写的实践。
 >router
 >>request封装客户端请求
 >>pathMatcher 路径匹配工具
-
->request
 >>HandlerObject 封装请求信息
 >>FuncObject 请求对应的接口函数
+
+>request 自定义请求实体类
+
 
 #### 安装教程
 
